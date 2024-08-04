@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inotebookmern/static/css/main.bcf7fef1.css",
+    "main.js": "/inotebookmern/static/js/main.51f5c34e.js",
+    "static/js/453.d724e79d.chunk.js": "/inotebookmern/static/js/453.d724e79d.chunk.js",
+    "index.html": "/inotebookmern/index.html",
+    "main.bcf7fef1.css.map": "/inotebookmern/static/css/main.bcf7fef1.css.map",
+    "main.51f5c34e.js.map": "/inotebookmern/static/js/main.51f5c34e.js.map",
+    "453.d724e79d.chunk.js.map": "/inotebookmern/static/js/453.d724e79d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcf7fef1.css",
+    "static/js/main.51f5c34e.js"
+  ]
+}
